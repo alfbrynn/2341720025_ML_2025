@@ -8,8 +8,8 @@ Repositori ini digunakan untuk menyimpan seluruh tugas, praktikum, dan proyek ma
 
 | Keterangan | Info |
 |-----------|------|
-| **Nama**  | Sirfaratih |
-| **NIM**   | 2341720072 |
+| **Nama**  | Muhammad Alif Febriansyah |
+| **NIM**   | 2341720025 |
 | **Kelas** | 3G |
 
 ---
